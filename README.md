@@ -2,7 +2,7 @@
 
 ## Group Members: Andrew Belfiglio, Arame Diasse, Maia Gonzales, Katy Phillips, Stephen Smith
 
-### The idea for our project was driven by the fact that Andrew, Arama, Maia, and Stephen are all Philadelphians grappling with the housing market there.  They wanted to further explore the factors surrounding rising rents in the city, as they are significantly affected.  After discussing citywide trends, we felt that we would be able to tell a more comprehensive, compelling story by narrowing to the zip code level.  
+### The idea for our project was driven by the fact that Andrew, Arame, Maia, and Stephen are all Philadelphians grappling with the housing market there.  They wanted to further explore the factors surrounding rising rents in the city, as they are significantly affected.  After discussing citywide trends, we felt that we would be able to tell a more comprehensive, compelling story by narrowing to the zip code level.  
 
 ### We used data from https://www.zillow.com/research/data/ and https://data.census.gov to examine the following questions:
 
